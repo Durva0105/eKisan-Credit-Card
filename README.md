@@ -1,4 +1,4 @@
-# eKisan Credit Card (eKCC) Testing Project
+# eKisan Credit Card (eKCC)
 
 ## 📌 Project Description
 The eKisan Credit Card (eKCC) system is a digital platform designed to provide financial support to farmers through credit facilities. 
